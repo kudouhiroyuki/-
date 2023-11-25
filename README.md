@@ -16,9 +16,6 @@ https://github.com/kudouhiroyuki/Study-TypeScript
 ## JavaScript　勉強メモ（READMEのみ）<br>
 https://github.com/kudouhiroyuki/Study-JavaScript
 
-## 用語　勉強メモ（READMEのみ）<br>
-https://github.com/kudouhiroyuki/Study-Term
-
 ## ツール<br>
 Swagger<br>
 Postman<br>
