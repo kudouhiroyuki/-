@@ -15,12 +15,3 @@ https://github.com/kudouhiroyuki/Study-TypeScript
 
 ## JavaScript　勉強メモ（READMEのみ）<br>
 https://github.com/kudouhiroyuki/Study-JavaScript
-
-## ツール<br>
-Swagger<br>
-Postman<br>
-Docker<br>
-MySQL<br>
-MySQL Workbench<br>
-Homebrew<br>
-
