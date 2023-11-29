@@ -1,3 +1,6 @@
+## wikiにまとめ<br>
+https://github.com/kudouhiroyuki/All/wiki
+
 ## SpringBoot 検証環境<br>
 https://github.com/kudouhiroyuki/SpringBoot
 
