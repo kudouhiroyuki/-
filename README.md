@@ -1,4 +1,4 @@
-## wikiにまとめ<br>
+## wikiに記載しています<br>
 https://github.com/kudouhiroyuki/All/wiki
 
 ## SpringBoot 検証環境<br>
