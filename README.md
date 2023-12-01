@@ -18,5 +18,3 @@ https://github.com/kudouhiroyuki/Study-TypeScript
 
 ## JavaScript　勉強メモ（READMEのみ）<br>
 https://github.com/kudouhiroyuki/Study-JavaScript
-
-aaa
